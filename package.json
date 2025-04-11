@@ -1,6 +1,6 @@
 {
   "name": "@supaverse/stellar-nest",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "An opinionated toolkit for seamless integration of Stellar with NestJS.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
