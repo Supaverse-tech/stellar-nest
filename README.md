@@ -1,9 +1,6 @@
 # @supaverse/stellar-nest
 
 > A lightweight and opinionated NestJS module for working with the Stellar blockchain.  
-> ⚠️ **This is a test version (pre-1.0)** — suitable for prototyping and internal use, but you should test thoroughly before using it in production.
-
-
 > 🧠 **Note:** While this library can be adapted to many use cases, it is primarily designed for **custodied account flows**.
 
 
